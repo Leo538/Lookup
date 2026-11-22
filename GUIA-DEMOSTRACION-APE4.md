@@ -1,0 +1,11 @@
+# Demostración de Lookup · APE 4
+
+Abre Lookup en el mismo navegador y dirección que usabas. La actualización registra el expediente `LOOKUP-APE4-2026-002` de **Clarent Mora** la primera vez. La copia de los datos de prueba identificados se puede descargar o restaurar desde **Configuración de Lookup → Registros archivados**.
+
+1. En **Información general**, muestra la ficha de LOOKUP S.A.S., empresa de desarrollo de software en Ambato, Ecuador, región Sierra. El representante legal del caso es Ariel Mateo Paredes Lozada, nivel A1, cédula ficticia 1804123451. Clarent Mora es desarrollador de software nivel C1, cédula ficticia 1805876545, con contrato indefinido y remuneración de USD 520,00. El acuerdo académico está fechado el 17/11/2026 y deja espacios para firma.
+2. En **Paz y salvo**, muestra los respaldos de Jefatura inmediata, Tecnología, Financiero y Talento Humano. Las aprobaciones corresponden a roles simulados. El certificado y los cinco respaldos están en `output/pdf/lookup-ape4-clarent-respaldos.pdf`.
+3. En **Liquidación**, muestra los **15 días gozados del 02/11/2026 al 16/11/2026** y los **0,71 días pendientes** del segundo período. Usa el PDF obtenido del simulador con **mutuo acuerdo (artículo 169 numeral 2), Sierra, ingreso 01/11/2025, salida 18/11/2026, USD 520,00, décimos no mensualizados y 0,71 días pendientes**.
+4. Pulsa **Cargar y usar este PDF**. Revisa la comparación entre los importes extraídos y el informe: vacaciones USD 12,31, décima tercera USD 502,63, décima cuarta USD 144,60, bonificación por desahucio USD 130,00 y total USD 789,54. Si hay diferencias, revisa el PDF original y deja constancia de lo revisado antes de confirmar la validación.
+5. Cuando hayas comprobado los rubros, registra el responsable y el valor final según corresponda, marca la confirmación y pulsa **Guardar y validar**. Después, **Generar expediente PDF consolidado** reúne portada, índice, paz y salvo, liquidación, vacaciones, acuerdo, respaldos y reporte original en un solo archivo. Puedes descargarlo y cerrar el expediente desde **Información general**.
+
+Mientras el PDF ministerial esté pendiente, el expediente queda **En revisión** y el certificado y los respaldos académicos están disponibles para la exposición.
